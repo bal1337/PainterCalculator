@@ -16,7 +16,7 @@ public class AdvancedCalculator {
                 for (int i = 0; i < numberOfWalls; i++) {
                     System.out.println("Number of walls: " + (i+1));
                     System.out.print("Please specify the height of the wall " + (i +1) + ": ");
-                    
+
                 }
             }
 
